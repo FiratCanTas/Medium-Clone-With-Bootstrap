@@ -1,0 +1,61 @@
+body{
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: rgba(25, 25, 25, 1);
+    
+}
+
+.bg-yellow{
+    background-color: #FFC017; 
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.bg-medium-dark{
+    background-color: rgba(25, 25, 25, 1);
+}
+.header-medium-dark{
+    color:rgba(41, 41, 41, 1);
+}
+.btn-rounded{
+    border-radius: 99em;
+}
+.obj-fit-cover{
+    object-fit:cover;
+}
+.article-no{
+    color:rgba(230, 230, 230, 1);
+    font-size: 32px;
+}
+.blogs-btn{
+    background-color:  rgba(242, 242, 242, 1);
+    color: rgba(41, 41, 41, 1);
+    border-style: none;
+    border-radius: 100px;
+    padding: 8px 16px;
+}
+.blogs-btn:hover{
+    background-color: rgba(228, 228, 228, 1);
+    transition: background 300ms ease;
+    color: rgba(41, 41, 41, 1);
+}
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+.blog-subject-btn{
+    padding: 2px 8px;
+    font-size: 13px;
+    color: rgba(41, 41, 41, 1);
+    background-color: rgba(242, 242, 242, 1);
+    border-radius: 100px;
+    border-style: none;
+}
+.blog-subject-btn:hover{
+    transition: background 300ms ease;
+    background-color: rgba(228, 228, 228, 1);
+    color: rgba(41, 41, 41, 1);
+}
+
+.border-top-dark{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
